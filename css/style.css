@@ -1,0 +1,28 @@
+section .container{
+    background-color: #C9B79C;
+}
+
+section h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+section .container .content >p{
+    font-size: 35px;
+}
+section .container .quote-cont p{
+    font-size: 20px;
+}
+section button{
+    font-size: 24px !important;
+    width: 200px;
+    height: 58px;
+    background-color: #71816D !important;
+}
+section button:hover{
+    background-color: #4e8098 !important;
+}
+
+section .quote-cont p{
+    font-size: 25px;
+    font-weight: 500;
+}
